@@ -7,7 +7,7 @@ struct person
 	char name[500];
 	struct person *nextptr;
 };
-
+tttttttt
 typedef struct person p;
 typedef p *pptr;
 
